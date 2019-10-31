@@ -1,0 +1,48 @@
+{
+  "name": "campaign-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "react": "^16.11.0",
+    "react-confirm-alert": "^2.4.1",
+    "react-dom": "^16.11.0",
+    "react-scripts": "3.2.0",
+    "reactstrap": "^8.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "keywords": [
+    "campaign",
+    "list"
+  ],
+  "author": "Junnel Teves",
+  "license": "ISC",
+  "homepage": "https://github.com/netkiko/campaign-app.git",
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/netkiko/campaign-app.git"
+  }
+}

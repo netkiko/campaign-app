@@ -1,0 +1,48 @@
+.campaign-page-wrapper {
+  display: flex;
+  flex-direction: column;
+  max-width: 1440px;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 40px;
+}
+
+.search-page-wrapper {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  background-color: aliceblue;
+  border: 1px solid #dee2e6;
+  margin-top: 20px;
+}
+
+.campaign-status-active {
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  background-color: green;
+  border-radius: 50%;
+  margin-right: 6px;
+}
+
+.campaign-status-inactive {
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  background-color: red;
+  border-radius: 50%;
+  margin-right: 6px;
+}
+
+.buttonFilter {
+  width: 120px;
+}
+
+.buttonClear {
+  width: 120px;
+}
+
+.buttonReset {
+  width: 220px;
+}
